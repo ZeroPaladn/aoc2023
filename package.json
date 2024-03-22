@@ -1,0 +1,13 @@
+{
+  "name": "aoc2023",
+  "version": "1.0.0",
+  "description": "AoC 2023, this is going to suck",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "ZeroPaladn",
+  "license": "MIT",
+  "type": "module"
+}
